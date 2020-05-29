@@ -1,0 +1,59 @@
+body {
+    background: #298eea;
+    font-family: "Roboto", helvetica, sans-serif;
+    padding: 60px 0 0;
+    margin: 0;
+    font-size: 18px;
+}
+body * {
+    box-sizing: border-box;
+}
+
+fieldset {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+.logo{
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px;
+}
+.signup-form{
+    width: 400px;
+    padding: 40px;
+    border-radius: 3px;
+    background: white;
+    margin: 0 auto;
+}
+.sign-up-legend{
+    width: 100%;
+    font-size: 35px;
+    font-weight: 300;
+    color: #565656;
+    text-align: center;
+    letter-spacing: 0;
+    margin: 0 auto 45px
+}
+.inp-btn{
+    width: 320px;
+    border: 2px solid grey;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.btn{
+    background-color: lawngreen;
+    color: white;
+}
+.footer-info{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    color: white;
+}
+
